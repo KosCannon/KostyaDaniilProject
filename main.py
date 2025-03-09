@@ -1,1 +1,2 @@
 print('hippo')
+print('niga')
